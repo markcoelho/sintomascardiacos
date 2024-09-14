@@ -1,0 +1,1001 @@
+Age,Smoking Status,Chest Pain Type
+70,Never,Typical Angina
+55,Never,Atypical Angina
+42,Current,Typical Angina
+84,Never,Atypical Angina
+86,Current,Non-anginal Pain
+66,Former,Typical Angina
+33,Current,Asymptomatic
+84,Current,Non-anginal Pain
+73,Never,Asymptomatic
+63,Former,Non-anginal Pain
+88,Former,Atypical Angina
+69,Former,Typical Angina
+78,Former,Non-anginal Pain
+89,Current,Atypical Angina
+71,Former,Typical Angina
+30,Current,Typical Angina
+77,Current,Non-anginal Pain
+86,Current,Typical Angina
+76,Former,Non-anginal Pain
+74,Never,Typical Angina
+45,Never,Asymptomatic
+88,Former,Atypical Angina
+34,Never,Asymptomatic
+77,Never,Non-anginal Pain
+45,Current,Asymptomatic
+89,Current,Non-anginal Pain
+84,Former,Typical Angina
+61,Former,Typical Angina
+52,Never,Non-anginal Pain
+49,Current,Asymptomatic
+55,Former,Typical Angina
+81,Former,Atypical Angina
+39,Former,Typical Angina
+32,Former,Atypical Angina
+71,Former,Asymptomatic
+46,Former,Atypical Angina
+88,Never,Atypical Angina
+52,Current,Atypical Angina
+76,Current,Atypical Angina
+46,Former,Typical Angina
+70,Current,Atypical Angina
+49,Current,Typical Angina
+39,Current,Atypical Angina
+67,Former,Non-anginal Pain
+39,Former,Asymptomatic
+71,Current,Atypical Angina
+33,Current,Non-anginal Pain
+86,Former,Atypical Angina
+61,Never,Atypical Angina
+41,Current,Atypical Angina
+35,Never,Non-anginal Pain
+41,Current,Asymptomatic
+55,Never,Non-anginal Pain
+66,Never,Asymptomatic
+35,Never,Atypical Angina
+80,Former,Typical Angina
+85,Never,Atypical Angina
+89,Never,Asymptomatic
+76,Never,Non-anginal Pain
+61,Current,Atypical Angina
+39,Never,Non-anginal Pain
+57,Current,Non-anginal Pain
+79,Never,Non-anginal Pain
+81,Never,Atypical Angina
+62,Former,Non-anginal Pain
+48,Current,Non-anginal Pain
+80,Never,Atypical Angina
+84,Current,Non-anginal Pain
+69,Current,Atypical Angina
+36,Former,Asymptomatic
+36,Former,Asymptomatic
+42,Former,Asymptomatic
+42,Former,Non-anginal Pain
+64,Former,Typical Angina
+80,Former,Typical Angina
+55,Former,Non-anginal Pain
+36,Former,Typical Angina
+62,Never,Atypical Angina
+45,Current,Typical Angina
+55,Former,Non-anginal Pain
+60,Former,Non-anginal Pain
+64,Current,Atypical Angina
+50,Never,Asymptomatic
+74,Current,Non-anginal Pain
+61,Current,Atypical Angina
+72,Former,Typical Angina
+65,Current,Typical Angina
+40,Current,Atypical Angina
+41,Former,Atypical Angina
+55,Former,Non-anginal Pain
+46,Former,Typical Angina
+70,Former,Atypical Angina
+71,Current,Typical Angina
+39,Current,Atypical Angina
+66,Never,Typical Angina
+30,Never,Asymptomatic
+79,Current,Non-anginal Pain
+67,Never,Typical Angina
+51,Current,Asymptomatic
+51,Never,Typical Angina
+89,Former,Typical Angina
+86,Never,Asymptomatic
+32,Former,Typical Angina
+76,Former,Typical Angina
+40,Former,Non-anginal Pain
+48,Former,Asymptomatic
+78,Never,Asymptomatic
+81,Current,Atypical Angina
+88,Former,Typical Angina
+49,Never,Non-anginal Pain
+46,Former,Typical Angina
+85,Never,Typical Angina
+82,Never,Atypical Angina
+75,Never,Typical Angina
+46,Current,Non-anginal Pain
+76,Never,Non-anginal Pain
+48,Never,Atypical Angina
+34,Current,Typical Angina
+33,Current,Non-anginal Pain
+71,Never,Typical Angina
+35,Current,Typical Angina
+31,Former,Typical Angina
+62,Former,Atypical Angina
+73,Current,Typical Angina
+45,Current,Non-anginal Pain
+40,Never,Typical Angina
+51,Current,Non-anginal Pain
+74,Never,Typical Angina
+78,Former,Non-anginal Pain
+45,Current,Non-anginal Pain
+86,Never,Typical Angina
+43,Never,Typical Angina
+71,Former,Non-anginal Pain
+37,Current,Asymptomatic
+67,Former,Atypical Angina
+37,Never,Asymptomatic
+80,Never,Asymptomatic
+45,Current,Typical Angina
+38,Never,Atypical Angina
+80,Current,Asymptomatic
+86,Former,Typical Angina
+49,Current,Asymptomatic
+54,Current,Asymptomatic
+78,Never,Typical Angina
+65,Never,Typical Angina
+77,Current,Typical Angina
+79,Never,Atypical Angina
+84,Never,Asymptomatic
+82,Never,Typical Angina
+86,Current,Non-anginal Pain
+79,Never,Asymptomatic
+88,Current,Non-anginal Pain
+50,Never,Atypical Angina
+80,Former,Typical Angina
+34,Never,Non-anginal Pain
+63,Never,Atypical Angina
+80,Current,Typical Angina
+50,Current,Non-anginal Pain
+64,Never,Non-anginal Pain
+73,Former,Atypical Angina
+44,Never,Typical Angina
+88,Never,Typical Angina
+59,Former,Non-anginal Pain
+51,Current,Non-anginal Pain
+43,Never,Non-anginal Pain
+55,Current,Typical Angina
+73,Current,Atypical Angina
+86,Former,Atypical Angina
+77,Former,Typical Angina
+82,Current,Asymptomatic
+82,Never,Atypical Angina
+76,Current,Non-anginal Pain
+85,Never,Asymptomatic
+76,Never,Asymptomatic
+41,Former,Atypical Angina
+86,Never,Asymptomatic
+81,Never,Asymptomatic
+58,Current,Atypical Angina
+77,Former,Atypical Angina
+82,Never,Asymptomatic
+53,Never,Non-anginal Pain
+82,Former,Typical Angina
+72,Current,Asymptomatic
+37,Former,Asymptomatic
+89,Former,Non-anginal Pain
+82,Never,Asymptomatic
+89,Never,Asymptomatic
+38,Current,Typical Angina
+83,Never,Typical Angina
+41,Never,Typical Angina
+34,Former,Atypical Angina
+40,Never,Atypical Angina
+77,Current,Typical Angina
+62,Former,Typical Angina
+37,Current,Atypical Angina
+38,Former,Non-anginal Pain
+52,Never,Asymptomatic
+77,Former,Asymptomatic
+42,Former,Typical Angina
+63,Never,Non-anginal Pain
+59,Never,Atypical Angina
+45,Current,Typical Angina
+66,Current,Non-anginal Pain
+86,Never,Non-anginal Pain
+45,Never,Non-anginal Pain
+39,Never,Atypical Angina
+71,Former,Atypical Angina
+41,Former,Asymptomatic
+48,Former,Asymptomatic
+46,Never,Non-anginal Pain
+64,Current,Non-anginal Pain
+31,Never,Atypical Angina
+64,Former,Asymptomatic
+53,Former,Non-anginal Pain
+62,Never,Asymptomatic
+75,Never,Asymptomatic
+66,Former,Non-anginal Pain
+54,Former,Atypical Angina
+80,Former,Non-anginal Pain
+56,Never,Non-anginal Pain
+89,Former,Asymptomatic
+34,Former,Non-anginal Pain
+46,Current,Atypical Angina
+86,Never,Non-anginal Pain
+53,Current,Atypical Angina
+86,Current,Atypical Angina
+82,Former,Asymptomatic
+39,Never,Typical Angina
+60,Former,Typical Angina
+86,Never,Asymptomatic
+37,Current,Non-anginal Pain
+72,Never,Asymptomatic
+39,Former,Atypical Angina
+56,Former,Typical Angina
+79,Former,Asymptomatic
+87,Never,Non-anginal Pain
+89,Current,Asymptomatic
+45,Current,Typical Angina
+78,Never,Asymptomatic
+85,Former,Asymptomatic
+84,Current,Typical Angina
+86,Former,Atypical Angina
+33,Never,Atypical Angina
+58,Former,Typical Angina
+31,Current,Asymptomatic
+83,Current,Typical Angina
+74,Former,Atypical Angina
+64,Never,Non-anginal Pain
+33,Former,Asymptomatic
+51,Never,Atypical Angina
+60,Former,Asymptomatic
+36,Current,Typical Angina
+58,Never,Non-anginal Pain
+72,Never,Typical Angina
+83,Never,Non-anginal Pain
+77,Current,Asymptomatic
+36,Former,Asymptomatic
+75,Current,Typical Angina
+40,Never,Non-anginal Pain
+82,Former,Non-anginal Pain
+78,Current,Asymptomatic
+71,Never,Typical Angina
+55,Never,Non-anginal Pain
+34,Current,Asymptomatic
+81,Current,Atypical Angina
+41,Current,Typical Angina
+40,Never,Atypical Angina
+37,Current,Typical Angina
+77,Never,Asymptomatic
+58,Current,Non-anginal Pain
+72,Never,Non-anginal Pain
+34,Never,Non-anginal Pain
+53,Former,Typical Angina
+70,Current,Asymptomatic
+83,Current,Atypical Angina
+69,Never,Asymptomatic
+49,Never,Atypical Angina
+41,Never,Typical Angina
+47,Former,Typical Angina
+78,Former,Atypical Angina
+35,Never,Atypical Angina
+31,Current,Atypical Angina
+51,Current,Asymptomatic
+37,Former,Atypical Angina
+72,Former,Typical Angina
+42,Never,Typical Angina
+63,Current,Non-anginal Pain
+54,Never,Atypical Angina
+32,Former,Asymptomatic
+65,Current,Asymptomatic
+80,Current,Asymptomatic
+49,Former,Non-anginal Pain
+71,Never,Typical Angina
+86,Never,Asymptomatic
+32,Current,Typical Angina
+82,Former,Non-anginal Pain
+57,Current,Atypical Angina
+82,Former,Atypical Angina
+33,Never,Atypical Angina
+65,Former,Asymptomatic
+40,Never,Atypical Angina
+73,Former,Asymptomatic
+71,Current,Non-anginal Pain
+42,Never,Non-anginal Pain
+70,Current,Asymptomatic
+55,Current,Typical Angina
+83,Never,Atypical Angina
+46,Never,Atypical Angina
+79,Current,Atypical Angina
+80,Current,Asymptomatic
+45,Current,Non-anginal Pain
+46,Current,Atypical Angina
+81,Never,Non-anginal Pain
+45,Never,Atypical Angina
+37,Current,Atypical Angina
+78,Former,Asymptomatic
+43,Former,Typical Angina
+61,Never,Asymptomatic
+77,Current,Atypical Angina
+59,Current,Atypical Angina
+40,Never,Typical Angina
+32,Former,Non-anginal Pain
+81,Former,Non-anginal Pain
+88,Former,Atypical Angina
+60,Never,Non-anginal Pain
+37,Former,Atypical Angina
+78,Never,Typical Angina
+67,Never,Typical Angina
+49,Current,Atypical Angina
+71,Former,Typical Angina
+53,Never,Asymptomatic
+69,Former,Asymptomatic
+64,Former,Typical Angina
+58,Current,Atypical Angina
+53,Former,Atypical Angina
+48,Current,Typical Angina
+44,Never,Non-anginal Pain
+35,Former,Asymptomatic
+70,Never,Non-anginal Pain
+54,Former,Atypical Angina
+74,Never,Atypical Angina
+50,Former,Non-anginal Pain
+49,Former,Typical Angina
+35,Former,Non-anginal Pain
+46,Former,Non-anginal Pain
+77,Former,Asymptomatic
+40,Former,Asymptomatic
+77,Former,Non-anginal Pain
+89,Former,Non-anginal Pain
+55,Former,Atypical Angina
+80,Never,Asymptomatic
+84,Current,Asymptomatic
+33,Former,Atypical Angina
+55,Current,Typical Angina
+88,Former,Asymptomatic
+57,Former,Asymptomatic
+30,Never,Typical Angina
+74,Never,Asymptomatic
+87,Current,Asymptomatic
+36,Never,Typical Angina
+82,Never,Typical Angina
+60,Current,Non-anginal Pain
+67,Never,Atypical Angina
+32,Former,Atypical Angina
+34,Current,Typical Angina
+88,Current,Typical Angina
+43,Former,Asymptomatic
+80,Never,Non-anginal Pain
+37,Current,Non-anginal Pain
+71,Current,Typical Angina
+89,Former,Asymptomatic
+71,Former,Asymptomatic
+39,Never,Atypical Angina
+61,Current,Atypical Angina
+40,Never,Asymptomatic
+30,Never,Atypical Angina
+34,Former,Typical Angina
+48,Current,Asymptomatic
+66,Current,Atypical Angina
+64,Current,Non-anginal Pain
+75,Former,Asymptomatic
+67,Former,Asymptomatic
+69,Former,Non-anginal Pain
+58,Former,Typical Angina
+36,Former,Non-anginal Pain
+63,Current,Asymptomatic
+41,Never,Typical Angina
+81,Current,Atypical Angina
+77,Never,Atypical Angina
+58,Former,Atypical Angina
+41,Never,Asymptomatic
+62,Current,Non-anginal Pain
+41,Current,Typical Angina
+73,Never,Atypical Angina
+76,Former,Typical Angina
+85,Former,Asymptomatic
+54,Current,Atypical Angina
+52,Never,Asymptomatic
+86,Former,Non-anginal Pain
+34,Former,Asymptomatic
+77,Current,Asymptomatic
+82,Former,Non-anginal Pain
+48,Never,Typical Angina
+75,Current,Non-anginal Pain
+56,Current,Non-anginal Pain
+74,Never,Asymptomatic
+66,Current,Typical Angina
+78,Former,Atypical Angina
+69,Former,Non-anginal Pain
+59,Never,Typical Angina
+80,Former,Non-anginal Pain
+79,Never,Non-anginal Pain
+68,Never,Non-anginal Pain
+80,Former,Non-anginal Pain
+85,Never,Asymptomatic
+86,Former,Typical Angina
+52,Current,Typical Angina
+40,Current,Typical Angina
+77,Never,Non-anginal Pain
+67,Former,Asymptomatic
+87,Former,Non-anginal Pain
+41,Current,Non-anginal Pain
+74,Current,Typical Angina
+60,Former,Non-anginal Pain
+58,Never,Atypical Angina
+76,Current,Non-anginal Pain
+32,Never,Atypical Angina
+34,Never,Non-anginal Pain
+87,Current,Asymptomatic
+64,Never,Asymptomatic
+59,Never,Typical Angina
+31,Former,Non-anginal Pain
+70,Never,Atypical Angina
+34,Former,Atypical Angina
+59,Current,Non-anginal Pain
+47,Current,Atypical Angina
+78,Former,Asymptomatic
+45,Current,Atypical Angina
+44,Never,Typical Angina
+81,Never,Asymptomatic
+38,Never,Asymptomatic
+49,Current,Asymptomatic
+56,Never,Non-anginal Pain
+79,Current,Non-anginal Pain
+83,Never,Asymptomatic
+52,Former,Non-anginal Pain
+48,Current,Atypical Angina
+46,Current,Non-anginal Pain
+33,Never,Non-anginal Pain
+62,Current,Asymptomatic
+45,Current,Typical Angina
+55,Former,Typical Angina
+33,Former,Typical Angina
+66,Never,Atypical Angina
+52,Former,Non-anginal Pain
+66,Never,Typical Angina
+85,Never,Asymptomatic
+64,Never,Typical Angina
+40,Current,Typical Angina
+67,Former,Non-anginal Pain
+43,Never,Non-anginal Pain
+45,Former,Non-anginal Pain
+49,Never,Atypical Angina
+50,Former,Atypical Angina
+77,Former,Typical Angina
+37,Never,Non-anginal Pain
+44,Current,Typical Angina
+83,Former,Asymptomatic
+42,Current,Asymptomatic
+88,Current,Non-anginal Pain
+58,Never,Non-anginal Pain
+72,Never,Asymptomatic
+68,Never,Non-anginal Pain
+60,Former,Atypical Angina
+31,Never,Atypical Angina
+88,Never,Non-anginal Pain
+62,Former,Asymptomatic
+49,Former,Typical Angina
+89,Never,Non-anginal Pain
+73,Never,Non-anginal Pain
+48,Never,Typical Angina
+42,Never,Non-anginal Pain
+64,Current,Typical Angina
+67,Current,Asymptomatic
+78,Never,Atypical Angina
+68,Current,Asymptomatic
+85,Former,Atypical Angina
+88,Current,Typical Angina
+39,Current,Atypical Angina
+60,Never,Asymptomatic
+49,Current,Atypical Angina
+60,Current,Typical Angina
+57,Current,Atypical Angina
+57,Current,Non-anginal Pain
+54,Former,Asymptomatic
+80,Never,Non-anginal Pain
+39,Never,Typical Angina
+43,Former,Atypical Angina
+83,Current,Non-anginal Pain
+83,Former,Non-anginal Pain
+66,Current,Atypical Angina
+58,Former,Atypical Angina
+40,Never,Asymptomatic
+52,Never,Non-anginal Pain
+32,Never,Non-anginal Pain
+47,Current,Typical Angina
+78,Current,Asymptomatic
+75,Former,Typical Angina
+60,Former,Non-anginal Pain
+83,Never,Typical Angina
+77,Current,Non-anginal Pain
+32,Former,Non-anginal Pain
+77,Current,Typical Angina
+48,Current,Typical Angina
+71,Never,Atypical Angina
+44,Never,Atypical Angina
+32,Current,Atypical Angina
+36,Current,Non-anginal Pain
+53,Current,Typical Angina
+55,Current,Asymptomatic
+70,Never,Non-anginal Pain
+71,Former,Asymptomatic
+33,Never,Typical Angina
+31,Former,Non-anginal Pain
+54,Current,Asymptomatic
+88,Former,Asymptomatic
+30,Never,Atypical Angina
+40,Never,Atypical Angina
+88,Current,Atypical Angina
+37,Never,Non-anginal Pain
+74,Current,Typical Angina
+57,Never,Typical Angina
+61,Never,Atypical Angina
+33,Current,Atypical Angina
+44,Former,Atypical Angina
+72,Never,Asymptomatic
+58,Former,Atypical Angina
+83,Never,Asymptomatic
+61,Never,Typical Angina
+77,Never,Non-anginal Pain
+83,Never,Non-anginal Pain
+56,Former,Non-anginal Pain
+49,Former,Non-anginal Pain
+51,Never,Asymptomatic
+45,Never,Asymptomatic
+53,Former,Atypical Angina
+71,Current,Asymptomatic
+41,Current,Atypical Angina
+34,Former,Atypical Angina
+52,Never,Non-anginal Pain
+45,Never,Asymptomatic
+67,Current,Asymptomatic
+54,Current,Atypical Angina
+46,Former,Atypical Angina
+34,Current,Typical Angina
+50,Former,Typical Angina
+61,Current,Atypical Angina
+41,Current,Typical Angina
+36,Current,Typical Angina
+54,Never,Atypical Angina
+41,Never,Atypical Angina
+77,Never,Asymptomatic
+69,Current,Atypical Angina
+78,Former,Atypical Angina
+62,Former,Non-anginal Pain
+74,Former,Asymptomatic
+48,Former,Asymptomatic
+71,Never,Asymptomatic
+71,Never,Non-anginal Pain
+43,Current,Atypical Angina
+69,Current,Asymptomatic
+41,Former,Asymptomatic
+88,Never,Typical Angina
+79,Former,Asymptomatic
+47,Current,Atypical Angina
+34,Current,Atypical Angina
+73,Former,Typical Angina
+40,Current,Asymptomatic
+88,Former,Asymptomatic
+62,Never,Asymptomatic
+39,Former,Non-anginal Pain
+42,Never,Asymptomatic
+43,Never,Atypical Angina
+49,Current,Atypical Angina
+79,Current,Non-anginal Pain
+66,Current,Non-anginal Pain
+58,Former,Asymptomatic
+83,Former,Typical Angina
+30,Current,Non-anginal Pain
+78,Former,Non-anginal Pain
+42,Current,Asymptomatic
+68,Former,Asymptomatic
+55,Never,Non-anginal Pain
+62,Never,Typical Angina
+62,Current,Non-anginal Pain
+76,Former,Asymptomatic
+57,Former,Asymptomatic
+44,Never,Non-anginal Pain
+75,Never,Typical Angina
+33,Current,Non-anginal Pain
+52,Never,Non-anginal Pain
+49,Current,Asymptomatic
+84,Never,Typical Angina
+54,Never,Atypical Angina
+79,Former,Typical Angina
+66,Never,Non-anginal Pain
+48,Never,Non-anginal Pain
+56,Current,Non-anginal Pain
+60,Never,Typical Angina
+68,Current,Asymptomatic
+74,Never,Non-anginal Pain
+81,Never,Non-anginal Pain
+36,Current,Typical Angina
+82,Former,Atypical Angina
+88,Current,Atypical Angina
+68,Current,Asymptomatic
+39,Current,Asymptomatic
+71,Former,Non-anginal Pain
+52,Never,Typical Angina
+36,Current,Non-anginal Pain
+75,Current,Asymptomatic
+51,Former,Typical Angina
+57,Current,Typical Angina
+70,Never,Asymptomatic
+87,Former,Atypical Angina
+62,Never,Atypical Angina
+63,Never,Typical Angina
+82,Former,Non-anginal Pain
+36,Current,Atypical Angina
+78,Never,Non-anginal Pain
+71,Never,Atypical Angina
+49,Never,Atypical Angina
+58,Never,Non-anginal Pain
+72,Former,Asymptomatic
+32,Former,Atypical Angina
+33,Never,Atypical Angina
+40,Current,Non-anginal Pain
+51,Never,Asymptomatic
+78,Current,Atypical Angina
+47,Never,Atypical Angina
+50,Current,Asymptomatic
+44,Never,Atypical Angina
+83,Current,Asymptomatic
+57,Never,Asymptomatic
+69,Never,Non-anginal Pain
+34,Current,Typical Angina
+36,Former,Asymptomatic
+32,Current,Non-anginal Pain
+78,Former,Typical Angina
+39,Never,Atypical Angina
+68,Current,Typical Angina
+44,Current,Asymptomatic
+32,Current,Asymptomatic
+86,Former,Asymptomatic
+38,Former,Asymptomatic
+37,Never,Asymptomatic
+45,Former,Non-anginal Pain
+83,Former,Asymptomatic
+65,Never,Non-anginal Pain
+88,Current,Atypical Angina
+54,Current,Asymptomatic
+70,Never,Asymptomatic
+88,Current,Typical Angina
+36,Former,Atypical Angina
+48,Never,Asymptomatic
+66,Never,Asymptomatic
+64,Never,Atypical Angina
+51,Current,Non-anginal Pain
+86,Never,Asymptomatic
+64,Never,Typical Angina
+33,Never,Asymptomatic
+87,Current,Typical Angina
+71,Former,Typical Angina
+47,Never,Asymptomatic
+52,Former,Asymptomatic
+64,Current,Typical Angina
+85,Current,Atypical Angina
+70,Current,Atypical Angina
+65,Current,Asymptomatic
+53,Former,Non-anginal Pain
+55,Never,Atypical Angina
+63,Current,Asymptomatic
+84,Current,Atypical Angina
+55,Former,Non-anginal Pain
+41,Former,Asymptomatic
+40,Current,Non-anginal Pain
+34,Never,Asymptomatic
+71,Never,Non-anginal Pain
+67,Current,Atypical Angina
+78,Former,Atypical Angina
+77,Current,Non-anginal Pain
+58,Current,Non-anginal Pain
+82,Former,Non-anginal Pain
+47,Current,Asymptomatic
+54,Current,Atypical Angina
+64,Current,Asymptomatic
+73,Former,Atypical Angina
+60,Never,Typical Angina
+53,Never,Asymptomatic
+49,Former,Atypical Angina
+38,Never,Atypical Angina
+86,Current,Asymptomatic
+31,Never,Asymptomatic
+84,Current,Atypical Angina
+68,Never,Asymptomatic
+39,Former,Non-anginal Pain
+59,Never,Asymptomatic
+34,Never,Asymptomatic
+70,Never,Asymptomatic
+45,Former,Atypical Angina
+67,Never,Non-anginal Pain
+35,Former,Typical Angina
+60,Current,Typical Angina
+49,Never,Non-anginal Pain
+60,Former,Non-anginal Pain
+82,Former,Non-anginal Pain
+81,Never,Atypical Angina
+54,Current,Typical Angina
+84,Former,Non-anginal Pain
+63,Never,Atypical Angina
+54,Current,Typical Angina
+71,Former,Asymptomatic
+35,Former,Atypical Angina
+72,Current,Typical Angina
+34,Current,Atypical Angina
+36,Never,Typical Angina
+39,Never,Typical Angina
+55,Former,Asymptomatic
+35,Current,Atypical Angina
+67,Current,Non-anginal Pain
+73,Current,Asymptomatic
+32,Former,Asymptomatic
+54,Current,Typical Angina
+85,Current,Non-anginal Pain
+72,Former,Atypical Angina
+89,Never,Non-anginal Pain
+80,Never,Non-anginal Pain
+79,Former,Non-anginal Pain
+56,Current,Non-anginal Pain
+74,Former,Non-anginal Pain
+63,Never,Typical Angina
+54,Never,Typical Angina
+30,Former,Asymptomatic
+80,Former,Typical Angina
+74,Never,Asymptomatic
+37,Former,Asymptomatic
+46,Never,Atypical Angina
+71,Former,Non-anginal Pain
+86,Former,Typical Angina
+82,Former,Atypical Angina
+46,Never,Typical Angina
+46,Former,Asymptomatic
+54,Never,Typical Angina
+62,Never,Non-anginal Pain
+88,Former,Asymptomatic
+42,Former,Asymptomatic
+84,Never,Atypical Angina
+44,Never,Non-anginal Pain
+71,Current,Asymptomatic
+81,Never,Non-anginal Pain
+58,Current,Typical Angina
+64,Current,Non-anginal Pain
+59,Current,Asymptomatic
+55,Former,Atypical Angina
+54,Former,Asymptomatic
+86,Never,Non-anginal Pain
+58,Current,Non-anginal Pain
+58,Former,Asymptomatic
+66,Former,Non-anginal Pain
+66,Former,Typical Angina
+68,Former,Asymptomatic
+64,Former,Atypical Angina
+48,Current,Asymptomatic
+88,Current,Typical Angina
+35,Current,Typical Angina
+51,Current,Typical Angina
+40,Never,Typical Angina
+36,Current,Typical Angina
+50,Former,Atypical Angina
+58,Current,Non-anginal Pain
+54,Never,Typical Angina
+30,Former,Typical Angina
+42,Current,Asymptomatic
+74,Current,Atypical Angina
+49,Current,Atypical Angina
+75,Former,Non-anginal Pain
+68,Former,Atypical Angina
+77,Never,Asymptomatic
+54,Former,Asymptomatic
+85,Former,Non-anginal Pain
+89,Current,Asymptomatic
+46,Former,Typical Angina
+54,Current,Typical Angina
+74,Current,Asymptomatic
+76,Former,Non-anginal Pain
+87,Never,Atypical Angina
+39,Never,Non-anginal Pain
+68,Former,Atypical Angina
+51,Never,Asymptomatic
+55,Current,Asymptomatic
+56,Current,Typical Angina
+49,Former,Atypical Angina
+43,Never,Non-anginal Pain
+75,Never,Asymptomatic
+77,Current,Non-anginal Pain
+58,Former,Typical Angina
+71,Never,Atypical Angina
+86,Former,Atypical Angina
+48,Never,Asymptomatic
+62,Current,Atypical Angina
+52,Current,Asymptomatic
+44,Former,Typical Angina
+58,Current,Atypical Angina
+87,Never,Asymptomatic
+66,Current,Non-anginal Pain
+41,Former,Asymptomatic
+39,Former,Atypical Angina
+45,Former,Typical Angina
+88,Never,Atypical Angina
+69,Never,Atypical Angina
+69,Never,Asymptomatic
+73,Never,Non-anginal Pain
+41,Never,Atypical Angina
+83,Current,Non-anginal Pain
+46,Never,Asymptomatic
+45,Never,Non-anginal Pain
+55,Current,Asymptomatic
+72,Never,Typical Angina
+66,Former,Non-anginal Pain
+62,Never,Non-anginal Pain
+65,Never,Typical Angina
+58,Former,Non-anginal Pain
+69,Former,Typical Angina
+33,Former,Atypical Angina
+78,Former,Asymptomatic
+70,Never,Typical Angina
+37,Former,Non-anginal Pain
+31,Former,Typical Angina
+84,Current,Non-anginal Pain
+69,Former,Atypical Angina
+41,Former,Typical Angina
+50,Current,Atypical Angina
+61,Current,Asymptomatic
+55,Never,Non-anginal Pain
+36,Current,Non-anginal Pain
+67,Never,Atypical Angina
+76,Current,Asymptomatic
+86,Current,Typical Angina
+61,Never,Typical Angina
+46,Current,Non-anginal Pain
+58,Never,Atypical Angina
+33,Current,Atypical Angina
+86,Former,Typical Angina
+32,Current,Asymptomatic
+45,Never,Asymptomatic
+76,Current,Typical Angina
+50,Never,Typical Angina
+43,Never,Atypical Angina
+53,Former,Asymptomatic
+71,Former,Typical Angina
+65,Never,Typical Angina
+64,Current,Non-anginal Pain
+84,Never,Typical Angina
+38,Never,Typical Angina
+82,Current,Asymptomatic
+55,Current,Atypical Angina
+59,Current,Asymptomatic
+30,Current,Atypical Angina
+56,Never,Non-anginal Pain
+38,Never,Typical Angina
+64,Former,Non-anginal Pain
+74,Never,Atypical Angina
+41,Current,Asymptomatic
+81,Former,Asymptomatic
+82,Current,Non-anginal Pain
+57,Never,Atypical Angina
+57,Former,Non-anginal Pain
+66,Current,Non-anginal Pain
+61,Former,Typical Angina
+51,Former,Non-anginal Pain
+49,Never,Typical Angina
+85,Current,Typical Angina
+63,Former,Asymptomatic
+70,Former,Typical Angina
+45,Current,Typical Angina
+88,Former,Asymptomatic
+64,Former,Non-anginal Pain
+74,Former,Atypical Angina
+85,Current,Atypical Angina
+56,Current,Atypical Angina
+77,Current,Non-anginal Pain
+69,Current,Typical Angina
+39,Never,Atypical Angina
+53,Former,Non-anginal Pain
+75,Current,Typical Angina
+71,Former,Asymptomatic
+77,Former,Atypical Angina
+55,Never,Typical Angina
+73,Current,Atypical Angina
+67,Current,Atypical Angina
+39,Former,Atypical Angina
+54,Current,Typical Angina
+76,Former,Non-anginal Pain
+37,Former,Typical Angina
+52,Never,Atypical Angina
+44,Never,Typical Angina
+41,Never,Asymptomatic
+36,Former,Non-anginal Pain
+80,Current,Typical Angina
+67,Never,Asymptomatic
+49,Current,Non-anginal Pain
+66,Never,Asymptomatic
+75,Never,Non-anginal Pain
+36,Former,Typical Angina
+49,Never,Asymptomatic
+74,Never,Atypical Angina
+54,Former,Asymptomatic
+40,Current,Non-anginal Pain
+44,Never,Typical Angina
+69,Former,Non-anginal Pain
+63,Never,Asymptomatic
+50,Former,Asymptomatic
+83,Current,Atypical Angina
+32,Current,Typical Angina
+76,Former,Typical Angina
+77,Former,Asymptomatic
+55,Former,Typical Angina
+47,Current,Atypical Angina
+81,Never,Non-anginal Pain
+37,Current,Typical Angina
+58,Former,Asymptomatic
+86,Former,Non-anginal Pain
+64,Current,Non-anginal Pain
+79,Former,Atypical Angina
+71,Current,Asymptomatic
+60,Former,Typical Angina
+48,Never,Asymptomatic
+84,Never,Non-anginal Pain
+70,Former,Asymptomatic
+88,Current,Typical Angina
+45,Never,Typical Angina
+66,Current,Atypical Angina
+83,Former,Typical Angina
+44,Current,Typical Angina
+64,Never,Asymptomatic
+39,Current,Asymptomatic
+49,Current,Non-anginal Pain
+40,Former,Atypical Angina
+34,Former,Asymptomatic
+88,Former,Typical Angina
+50,Never,Non-anginal Pain
+32,Never,Asymptomatic
+49,Former,Atypical Angina
+71,Former,Atypical Angina
+84,Never,Non-anginal Pain
+50,Never,Non-anginal Pain
+46,Never,Non-anginal Pain
+81,Never,Non-anginal Pain
+75,Former,Non-anginal Pain
+71,Never,Typical Angina
+47,Former,Typical Angina
+85,Current,Asymptomatic
+78,Current,Atypical Angina
+41,Never,Typical Angina
+37,Current,Typical Angina
+79,Current,Typical Angina
+58,Current,Asymptomatic
+36,Never,Non-anginal Pain
+74,Never,Asymptomatic
+86,Current,Atypical Angina
+64,Former,Atypical Angina
+50,Current,Atypical Angina
+50,Never,Atypical Angina
+35,Never,Typical Angina
+89,Never,Typical Angina
+74,Current,Asymptomatic
+46,Former,Non-anginal Pain
+58,Never,Atypical Angina
+63,Never,Asymptomatic
+33,Current,Typical Angina
+41,Former,Typical Angina
+73,Current,Non-anginal Pain
+49,Never,Non-anginal Pain
+36,Former,Non-anginal Pain
+77,Former,Asymptomatic
+46,Never,Typical Angina
+70,Former,Typical Angina
+81,Former,Non-anginal Pain
+70,Current,Atypical Angina
+37,Never,Non-anginal Pain
+85,Never,Asymptomatic
+72,Never,Non-anginal Pain
+77,Never,Non-anginal Pain
+77,Never,Asymptomatic
+51,Former,Non-anginal Pain
+42,Current,Typical Angina
+80,Never,Atypical Angina
+64,Current,Non-anginal Pain
+84,Current,Asymptomatic
+61,Former,Atypical Angina
